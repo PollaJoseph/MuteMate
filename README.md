@@ -15,7 +15,7 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
   <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="120" style="border-radius:50%; margin:10px;"/>
   <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="120" style="border-radius:50%; margin:10px;"/>
   <img src="assets/marllen.jpg" alt="Marllen Sery Saleh Nakhla" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/mohamed1.jpg" alt="Mohamed Ahemd Mohamed Ahmed" width="120" style="border-radius:50%; margin:10px;"/>
+  <img src="assets/omnia.jpg" alt="Omnia Hussein Saad Mahmoud" width="120" style="border-radius:50%; margin:10px;"/>
   <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="120" style="border-radius:50%; margin:10px;"/>
 </p>
 
@@ -24,7 +24,7 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
   <b>Polla Joseph Labeeb Aziz</b> · 
   <b>Hager Galal Ahmed Galal</b> · 
   <b>Marllen Sery Saleh Nakhla</b> · 
-  <b>Mohamed Ahemd Mohamed Ahmed</b> · 
+  <b>Omnia Hussein Saad Mahmoud</b> · 
   <b>Ahmed Mohamed Ahmed Mohamed</b>
 </p>
 
