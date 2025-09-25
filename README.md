@@ -44,7 +44,7 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
 ---
 
 ## 🎯 Project Goals  
-- Foster **inclusion** and **social participation**.  
+- Faster **inclusion** and **social participation**.  
 - Remove **discrimination** against the deaf and mute community.  
 - Provide **digital solutions** that empower communication.  
 - Promote **equal opportunities** in education, work, and daily life.  
