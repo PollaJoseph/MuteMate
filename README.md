@@ -11,23 +11,35 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
 ## 👥 Team Members  
 
 <p align="center">
-  <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/marllen.jpg" alt="Marllen Sery Saleh Nakhla" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/mohamed1.jpg" alt="Mohamed Ahemd Mohamed Ahmed" width="120" style="border-radius:50%; margin:10px;"/>
-  <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="120" style="border-radius:50%; margin:10px;"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="120" style="border-radius:50%;"/><br>
+        <b>Polla Joseph<br>Labeeb Aziz</b>
+      </td>
+      <td align="center">
+        <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="120" style="border-radius:50%;"/><br>
+        <b>Assem Ayman<br>Mohamed Ibrahim</b>
+      </td>
+      <td align="center">
+        <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="120" style="border-radius:50%;"/><br>
+        <b>Hager Galal<br>Ahmed Galal</b>
+      </td>
+      <td align="center">
+        <img src="assets/marllen.jpg" alt="Marllen Sery Saleh Nakhla" width="120" style="border-radius:50%;"/><br>
+        <b>Marllen Sery<br>Saleh Nakhla</b>
+      </td>
+      <td align="center">
+        <img src="assets/omnia.jpg" alt="Omnia Hussein Saad Mahmoud" width="120" style="border-radius:50%;"/><br>
+        <b>Omnia Hussein<br>Saad Mahmoud</b>
+      </td>
+      <td align="center">
+        <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="120" style="border-radius:50%;"/><br>
+        <b>Ahmed Mohamed<br>Ahmed Mohamed</b>
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <b>Assem Ayman Mohamed Ibrahim</b> · 
-  <b>Polla Joseph Labeeb Aziz</b> · 
-  <b>Hager Galal Ahmed Galal</b> · 
-  <b>Marllen Sery Saleh Nakhla</b> · 
-  <b>Mohamed Ahemd Mohamed Ahmed</b> · 
-  <b>Ahmed Mohamed Ahmed Mohamed</b>
-</p>
-
 
 ---
 
