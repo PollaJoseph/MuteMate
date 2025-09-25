@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/proxy/D94qszRaT52_tkye8iLzXNtckJq_nAlfl6AGHarRhO9xYML5hePcGvEtXV3kTeekCJt07fbteNE" alt="Helwan National University Logo" width="200"/>
+  <img src="university_logo.png" alt="Helwan National University Logo" width="120" style="margin-right: 40px;"/>
+  <img src="app_logo.png" alt="MuteMate App Logo" width="120"/>
 </p>
 
 <h1 align="center">MuteMate</h1>
