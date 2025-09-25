@@ -14,12 +14,12 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
   <table>
     <tr>
       <td align="center">
-        <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="120" style="border-radius:50%;"/><br>
-        <b>Assem Ayman<br>Mohamed Ibrahim</b>
-      </td>
-      <td align="center">
         <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="120" style="border-radius:50%;"/><br>
         <b>Polla Joseph<br>Labeeb Aziz</b>
+      </td>
+      <td align="center">
+        <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="120" style="border-radius:50%;"/><br>
+        <b>Assem Ayman<br>Mohamed Ibrahim</b>
       </td>
       <td align="center">
         <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="120" style="border-radius:50%;"/><br>
