@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">MuteMate</h1>
-_MuteMate_ is a graduation project developed by students of _Helwan National University – BIDT Program (Class of 2026)_.  
-It is dedicated to supporting the _deaf and mute community in Egypt_, aiming to break communication barriers and create equal opportunities for inclusion.
+MuteMate is a graduation project developed by students of Helwan National University – BIDT Program (Class of 2026).  
+It is dedicated to supporting the deaf and mute community in Egypt, aiming to break communication barriers and create equal opportunities for inclusion.
  
 ---
 
