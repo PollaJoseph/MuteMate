@@ -28,13 +28,3 @@ In Egypt, many members of the deaf and mute community face challenges in express
 
 ## 🚀 Vision  
 To build a more inclusive society where everyone, regardless of ability, can communicate, learn, and participate equally.  
-
----
-
-## 📌 Next Steps  
-- Add **features overview** (what MuteMate provides).  
-- Add **tech stack** (Flutter, Django, APIs, etc.).  
-- Add **installation guide** (if open-source).  
-- Add **contributors** (team members).  
-
----
