@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/university_logo.png" alt="Helwan National University Logo" width="130" style="margin-right: 60px;"/>
-  <img src="assets/app_logo.png" alt="MuteMate App Logo" width="190" style="margin-top: 600px;"/>
+  <img src="assets/university_logo.png" alt="Helwan National University Logo" width="120" style="margin-right: 60px;"/>
+  <img src="assets/app_logo.png" alt="MuteMate App Logo" width="120"/>
 </p>
 
 <h1 align="center">MuteMate</h1>
