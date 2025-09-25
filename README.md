@@ -34,8 +34,8 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
         <b>Omnia Hussein<br>Saad Mahmoud</b>
       </td>
       <td align="center">
-        <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="120" style="border-radius:50%;"/><br>
-        <b>Ahmed Mohamed<br>Ahmed Mohamed</b>
+        <img src="assets/Shahd .jpg" alt="Shahd Ragab Saad Youssef" width="120" style="border-radius:50%;"/><br>
+        <b>Shahd Ragab Saad Youssef</b>
       </td>
     </tr>
   </table>
