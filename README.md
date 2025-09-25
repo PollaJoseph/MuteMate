@@ -40,6 +40,7 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
     </tr>
   </table>
 </p>
+
 ---
 
 ## 🎯 Project Goals  
