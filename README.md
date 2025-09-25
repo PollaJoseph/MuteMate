@@ -1,5 +1,8 @@
-# MuteMate  
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/proxy/D94qszRaT52_tkye8iLzXNtckJq_nAlfl6AGHarRhO9xYML5hePcGvEtXV3kTeekCJt07fbteNE" alt="Helwan National University Logo" width="200"/>
+</p>
 
+<h1 align="center">MuteMate</h1>
 **MuteMate** is a graduation project developed by students of **Helwan National University – BIDT Program (Class of 2026)**.  
 It is dedicated to supporting the **deaf and mute community in Egypt**, aiming to break communication barriers and create equal opportunities for inclusion.  
 
@@ -28,3 +31,13 @@ In Egypt, many members of the deaf and mute community face challenges in express
 
 ## 🚀 Vision  
 To build a more inclusive society where everyone, regardless of ability, can communicate, learn, and participate equally.  
+
+---
+
+## 📌 Next Steps  
+- Add **features overview** (what MuteMate provides).  
+- Add **tech stack** (Flutter, Django, APIs, etc.).  
+- Add **installation guide** (if open-source).  
+- Add **contributors** (team members).  
+
+---
