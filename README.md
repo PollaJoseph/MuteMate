@@ -8,6 +8,43 @@ MuteMate is a graduation project developed by students of Helwan National Univer
 It is dedicated to supporting the deaf and mute community in Egypt, aiming to break communication barriers and create equal opportunities for inclusion.
  
 ---
+## 👥 Team Members  
+
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <div>
+      <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Assem Ayman<br>Mohamed Ibrahim</b></p>
+    </div>
+    <div>
+      <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Polla Joseph<br>Labeeb Aziz</b></p>
+    </div>
+    <div>
+      <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Hager Galal<br>Ahmed Galal</b></p>
+    </div>
+  </div>
+</p>
+
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <div>
+      <img src="assets/marllen.jpg" alt="Marllen Sery Saleh Nakhla" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Marllen Sery<br>Saleh Nakhla</b></p>
+    </div>
+    <div>
+      <img src="assets/mohamed1.jpg" alt="Mohamed Ahemd Mohamed Ahmed" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Mohamed Ahemd<br>Mohamed Ahmed</b></p>
+    </div>
+    <div>
+      <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="120" style="border-radius:50%;"/>
+      <p align="center"><b>Ahmed Mohamed<br>Ahmed Mohamed</b></p>
+    </div>
+  </div>
+</p>
+
+---
 
 ## 🎯 Project Goals  
 - Foster **inclusion** and **social participation**.  
