@@ -37,11 +37,7 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
         <img src="assets/omnia.jpg" alt="Omnia Hussein Saad Mahmoud" width="120" style="border-radius:50%;"/><br>
         <b>Omnia Hussein<br>Saad Mahmoud</b>
      </td>
-      <td align="center">
-        <img src="assets/shahd .jpg" alt="Marllen Sery Saleh Nakhla" width="120" style="border-radius:50%;"/><br>
-        <b>Marllen Sery<br>Saleh Nakhla</b>
-      </td>
-    </tr>
+      
   </table>
 </p>
 
