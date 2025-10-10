@@ -43,6 +43,39 @@ It is dedicated to supporting the deaf and mute community in Egypt, aiming to br
   </table>
 </p>
 
+## 👥 Team Members  
+
+<p align="center">
+  <img src="assets/assem.jpg" alt="Assem Ayman Mohamed Ibrahim" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Assem Ayman<br>Mohamed Ibrahim</b>
+</p>
+
+<p align="center">
+  <img src="assets/polla.jpeg" alt="Polla Joseph Labeeb Aziz" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Polla Joseph<br>Labeeb Aziz</b>
+</p>
+
+<p align="center">
+  <img src="assets/hager.jpg" alt="Hager Galal Ahmed Galal" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Hager Galal<br>Ahmed Galal</b>
+</p>
+
+<p align="center">
+  <img src="assets/marllen.jpg" alt="Marllen Sery Saleh Nakhla" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Marllen Sery<br>Saleh Nakhla</b>
+</p>
+
+<p align="center">
+  <img src="assets/omnia.jpg" alt="Omnia Hussein Saad Mahmoud" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Omnia Hussein<br>Saad Mahmoud</b>
+</p>
+
+<p align="center">
+  <img src="assets/ahmed.jpg" alt="Ahmed Mohamed Ahmed Mohamed" width="130" style="border-radius:50%; margin:15px;"/><br>
+  <b>Ahmed Mohamed<br>Ahmed Mohamed</b>
+</p>
+
+
 ---
 
 ## 🎯 Project Goals  
